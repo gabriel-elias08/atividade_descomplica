@@ -1,0 +1,9 @@
+body{
+    background-color: aliceblue;
+}
+img{
+    border: 10px solid #644646;
+    border-radius: 3px;
+    max-width: 50%;
+   height: auto;
+};
